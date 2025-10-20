@@ -1,1 +1,4 @@
 # private-keys
+
+export AWS_ACCESS_KEY_ID="AKIAYNPCQKVTS6T6J2FH"
+export AWS_SECRET_ACCESS_KEY="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"
